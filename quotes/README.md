@@ -1,4 +1,4 @@
-# Notes
+# Quote
 In this exercise located on page 40 I learned a couple of interesting things, including:
 
 1. A worthwhile definition for transports: A connection between two endpoints.
